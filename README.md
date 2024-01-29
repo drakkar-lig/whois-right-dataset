@@ -10,7 +10,7 @@ The DOI and link to the article will be added here once the proceedings are publ
 This repository only contains the Jupyter Notebooks analyzing the data.
 
 The datasets can be downloaded at the following archive:
- (link to come, when the dataset gets a DOI)
+https://doi.org/10.57745/RJX9XH
 
 # The analysis
 To run the analysis:
