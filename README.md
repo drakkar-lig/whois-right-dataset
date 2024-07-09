@@ -3,8 +3,8 @@
 This repository contains the code generating the numbers, graphs and figures displayed in the article :
 WHOIS Right? An Analysis of WHOIS and RDAP Consistency
 
-This article is published at the 2024 Passive and Active Measurement (PAM) conference.
-The DOI and link to the article will be added here once the proceedings are published.
+This article is published at the 2024 Passive and Active Measurement (PAM) conference (https://doi.org/10.1007/978-3-031-56249-5_9)
+
 
 # The datasets
 This repository only contains the Jupyter Notebooks analyzing the data.
